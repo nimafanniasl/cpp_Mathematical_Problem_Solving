@@ -11,5 +11,7 @@ You can choose from the following actions:<br>
   <br>
 for example:<br>
 2 * 7<br>
-5 ^ 2<br>
+5 ^ 2<br><br>
+  
+<a href="https://smartnima.com">mysite</a>
 </div>
